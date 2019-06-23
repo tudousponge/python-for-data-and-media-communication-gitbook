@@ -417,7 +417,7 @@ Following are advanced topics for your own reading. We do not discuss those topi
 
 **Objective**:
 
-> * Understand correlation and causality. Can conduct visual \(explorative\) analysis of correlation
+> * Understand correlation and causality. Can conduct visual \(explorative\) analysis of correlation【learn probability theory in advance】
 > * Can interpret common statistic quantities
 > * Dimensionality reduction
 
