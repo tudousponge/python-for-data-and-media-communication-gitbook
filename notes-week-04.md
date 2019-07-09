@@ -357,7 +357,7 @@ new_dict : {'Name': 'Chico', 'Age': '23', 'Gender': 'Male'}
 
 #### in operator in dict
 
-Likewise, one can us `in` operator to check whether there is certain key in the dict. For example:
+Likewise, one can us `in` operator to check whether there is a certain key or value in the dict. For example:
 
 ```python
 >>> my_dict = {'Name': 'Chico', 'Gender': 'Male', 'Age': 23}
