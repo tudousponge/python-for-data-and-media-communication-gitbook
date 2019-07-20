@@ -438,7 +438,7 @@ Class is an abstraction that describes certain objects with the same properties 
 
 All classes have a function called `__init__()`, which is always executed when the class is being initiated. Therefore the `__init__()` function is used to assign values to object properties, or other operations that are necessary to do when the object is being created.
 
-Example 28: Create a animal class.
+Example 28: Create an animal class.
 
 ```python
 class Animal(): #class + class name to give a statement
@@ -462,7 +462,7 @@ class Person():  #build a person class
     def __init__(self,name,age): #those objects has name and age
         self.name,self.age = name,age  
     def __str__(self):  # def a certain return
-        return 'My name is {self.name}, and I\'m {self.age} years old'.format(self=self) #review the format.() function
+        return 'My name is {self.name}, and I\'m {self.age} years old'.format(self=self) #review the .format() function
 
 str(Person('xyc',18)) #call the function by passing parameters in the function
 ```
